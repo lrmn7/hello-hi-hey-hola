@@ -1,0 +1,9 @@
+exclude:
+  - README.md
+  - LICENSE
+  
+logo: /images/avatar.png
+
+description: Random scripts I wanna share
+
+theme: jekyll-theme-midnight
