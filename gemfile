@@ -1,0 +1,13 @@
+source "https://rubygems.org"
+
+# Tentukan versi Ruby yang sesuai dengan tema Jekyll
+ruby ">= 3.0.0"
+
+# Tentukan dependensi yang diperlukan untuk Jekyll
+gem "jekyll", "~> 4.3"
+
+# Tambahkan tema "jekyll-theme-midnight" untuk Jekyll
+gem "jekyll-theme-midnight", "~> 0.3"
+
+# Gem lain yang mungkin Anda perlukan
+# gem "nama_gem_lain", "versi_gem"
