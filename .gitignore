@@ -1,6 +1,4 @@
 .jekyll-cache
--site
-_site
-/_site
-_site/
 .jekyll_cache/
+_site
+_site/
