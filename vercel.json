@@ -5,7 +5,7 @@
   {
     "version": 2,
     "builds": [
-      { "src": "jekyll build", "use": "@vercel/static-build" }
+      { "src": "bundle exec jekyll build", "use": "@vercel/static-build" }
     ],
     "routes": [
       { "src": "/(.*)", "dest": "/$1.html" }
