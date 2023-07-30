@@ -1,17 +1,10 @@
 {
     "version": 2,
     "builds": [
-      {
-        "src": "_config.yml",
-        "use": "@vercel/static-build",
-        "config": { "zeroConfig": true }
-      }
+      { "src": "package.json", "use": "@vercel/static-build" }
     ],
     "routes": [
-      {
-        "src": "/(.*)",
-        "dest": "/$1.html"
-      }
+      { "src": "/(.*)", "dest": "/$1.html" }
     ]
   }
   
