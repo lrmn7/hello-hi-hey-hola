@@ -1,5 +1,4 @@
-# L RMN
-Trash website with shitty scripts I want to share.
+# Hello hi hey hola <3
 
 ## Frameworks
 This site uses some CSS from [Modesta](https://github.com/AlexFlipnote/Modesta).
