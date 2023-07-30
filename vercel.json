@@ -1,10 +1,3 @@
 {
-    "version": 2,
-    "builds": [
-      { "src": "Gemfile", "use": "@vercel/static-build" }
-    ],
-    "routes": [
-      { "src": "/(.*)", "dest": "/$1.html" }
-    ]
+    "cleanUrls": true
   }
-  
