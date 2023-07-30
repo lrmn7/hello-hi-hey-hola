@@ -1,0 +1,8 @@
+source "https://rubygems.org"
+
+# Tentukan versi Ruby yang digunakan
+ruby "3.0.0"
+
+# Dependensi Jekyll
+gem "jekyll", "~> 4.2"
+gem "jekyll-theme-midnight", "~> 1.1" # Ganti dengan tema yang Anda gunakan
