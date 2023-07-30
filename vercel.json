@@ -1,0 +1,6 @@
+{
+    "builds": [
+      { "src": "jekyll build", "use": "@vercel/static-build" }
+    ]
+  }
+  
