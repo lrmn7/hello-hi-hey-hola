@@ -105,21 +105,26 @@ iframe.fullscreen {
 }
 
 .figcapnaisha {
-	color:rgb(255, 1, 91);
+	color:rgb(227, 115, 94);
 	font-size: 25px;
 }
 
 .figcaplucyradio {
-	color:rgb(255, 1, 91);
+	color:rgb(98, 1, 255);
 	font-size: 25px;
 }
 
 .figcaplrmn {
-	color:rgb(255, 1, 91);
+	color:rgb(247, 245, 245);
 	font-size: 25px;
 }
 
-.botlucy, .botclarisha, .botnaisha, .botlucyradio, .botlrmn {
+.figcapsoothe {
+	color:rgb(255, 170, 51);
+	font-size: 25px;
+}
+
+.botlucy, .botclarisha, .botnaisha, .botlucyradio, .botlrmn, .botsoothe {
 	height: 200px !important;
 	border-radius: 50%;
 }
@@ -162,7 +167,7 @@ footer {
 }
 
 @media screen and (max-width: 500px) {
-	.botlucy, .botclarisha, .botnaisha, .botlucyradio, .botlrmn {
+	.botlucy, .botclarisha, .botnaisha, .botlucyradio, .botlrmn, .botsoothe {
 		height: 150px !important;
 	}
 }
