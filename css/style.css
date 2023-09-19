@@ -99,22 +99,22 @@ iframe.fullscreen {
 	font-size: 25px;
 }
 
-.figcapclarisha {
+.figcapmoo {
 	color: #7289da;
 	font-size: 25px;
 }
 
-.figcapnaisha {
+.figcapradio {
 	color:rgb(227, 115, 94);
 	font-size: 25px;
 }
 
-.figcaplucyradio {
+.figcapmiu {
 	color:rgb(98, 1, 255);
 	font-size: 25px;
 }
 
-.figcaplrmn {
+.figcapdailycat {
 	color:rgb(247, 245, 245);
 	font-size: 25px;
 }
@@ -124,7 +124,7 @@ iframe.fullscreen {
 	font-size: 25px;
 }
 
-.botlucy, .botclarisha, .botnaisha, .botlucyradio, .botlrmn, .botsoothe {
+.botlucy, .botmoo, .botradio, .botmiu, .botdailycat, .botsoothe {
 	height: 200px !important;
 	border-radius: 50%;
 }
@@ -167,7 +167,7 @@ footer {
 }
 
 @media screen and (max-width: 500px) {
-	.botlucy, .botclarisha, .botnaisha, .botlucyradio, .botlrmn, .botsoothe {
+	.botlucy, .botmoo, .botradio, .botmiu, .botdailycat, .botsoothe {
 		height: 150px !important;
 	}
 }
